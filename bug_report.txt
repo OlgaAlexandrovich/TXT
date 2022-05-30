@@ -1,1 +1,7 @@
-
+Короткое описание (Summary)
+Проект (Project)
+Компонент приложения (Component)
+Номер версии (Version)
+Серьёзность (Severity)
+Приоритет (Priority)
+Статус (Status)
